@@ -1,16 +1,19 @@
-## Hi there 👋
+## 🛸 Greetings, fellow starfarers! 🛸
 
-<!--
-**9bit-Jedi/9bit-Jedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Utsah, a sophomore at IITR, currently navigating the digital cosmos, armed with Python and a touch of HTML wizardry.
 
-Here are some ideas to get you started:
+🔭 **Currently working on:** Expanding my skills in web development and machine learning, hoping to build AI-powered tools for space exploration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Currently learning:** Django framework, the ins and outs of REST APIs, and diving deeper into the world of data science.
+
+👯 **Looking to collaborate on:** Open-source projects that involve Python, web development, or data analysis. Especially interested in anything related to education or space tech!
+
+🤔 **Looking for help with:** Understanding the nuances of asynchronous programming in Python and mastering the art of database optimization.
+
+💬 **Ask me about:** Python, HTML, web development, open-source projects, and anything else that sparks your curiosity.
+
+📫 **How to reach me:** You can find me on [LinkedIn](https://www.linkedin.com/in/utsah/) or ping me on [Twitter](https://twitter.com/utsah_).
+
+😄 **Pronouns:** he/him
+
+⚡ **Fun fact:** I'm convinced that the best code is written while listening to lo-fi beats and sipping on intergalactic tea. 
