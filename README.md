@@ -1,19 +1,15 @@
 ## 🛸 Greetings, fellow starfarers! 🛸
 
-I'm Utsah, a sophomore at IITR, currently navigating the digital cosmos, armed with Python and a touch of HTML wizardry.
+I'm Utsah, a pre-final yearite at IITR, currently navigating the digital cosmos, armed with Django and a touch of JS.
 
-🔭 **Currently working on:** Expanding my skills in web development and machine learning, hoping to build AI-powered tools for space exploration.
+🔭 **Currently working on:** Expanding my skills in web development & REST API, hoping to build robust backends. 
 
 🌱 **Currently learning:** Django framework, the ins and outs of REST APIs, and diving deeper into the world of data science.
 
-👯 **Looking to collaborate on:** Open-source projects that involve Python, web development, or data analysis. Especially interested in anything related to education or space tech!
+👯 **Looking to collaborate on:** Open-source projects that involve Django, React or full-stack development. Particularly interested in impactful applications for education, social networking, or gym management (been there, built that! 💪).
 
-🤔 **Looking for help with:** Understanding the nuances of asynchronous programming in Python and mastering the art of database optimization.
+🤔 **Looking for help with:** Understanding the nuances of hosting on cloud (AWS/Docker) ☁️ and aiming for stars ✨ in the art of database management (PostgreSQL).
 
-💬 **Ask me about:** Python, HTML, web development, open-source projects, and anything else that sparks your curiosity.
+📫 **How to reach me:** You can find me on [LinkedIn](https://www.linkedin.com/in/utsah/) or ping me on [Twitter](https://twitter.com/utsah_). Can connect on [Insta](https://www.instagram.com/utsah470/) as well. 😉
 
-📫 **How to reach me:** You can find me on [LinkedIn](https://www.linkedin.com/in/utsah/) or ping me on [Twitter](https://twitter.com/utsah_).
-
-😄 **Pronouns:** he/him
-
-⚡ **Fun fact:** I'm convinced that the best code is written while listening to lo-fi beats and sipping on intergalactic tea. 
+⚡ **Fun fact:** I'm convinced that the best code is written while listening to Diljeet's beats and sipping on Moon-Child Era tea.
