@@ -1,3 +1,5 @@
+![1734328094961 1](https://github.com/user-attachments/assets/940c1a02-be27-450f-93b8-9e09d12697bf)
+
 # 💫 About Me:
 I'm Utsah, a pre-final yearite at IITR, currently navigating the digital cosmos, armed with Django and a touch of JS.<br><br>🔭 Currently working on: Expanding my skills in web development & REST API, hoping to build robust backends.<br><br>🌱 Currently learning: Django framework, the ins and outs of REST APIs, and diving deeper into the world of data science.<br><br>👯 Looking to collaborate on: Open-source projects that involve Django, React or full-stack development. Particularly interested in impactful applications for education, social networking, or gym management (been there, built that! 💪).<br><br>🤔 Looking for help with: Understanding the nuances of hosting on cloud (AWS/Docker) ☁️ and aiming for stars ✨ in the art of database management (PostgreSQL).<br><br>📫 How to reach me: You can find me on LinkedIn or ping me on Twitter. Can connect on Insta as well. 😉<br><br>⚡ Fun fact: I'm convinced that the best code is written while listening to Diljeet's beats and sipping on Moon-Child Era tea.
 
