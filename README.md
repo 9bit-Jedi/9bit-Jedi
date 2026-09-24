@@ -1,7 +1,7 @@
 ![1734328094961 1](https://github.com/user-attachments/assets/940c1a02-be27-450f-93b8-9e09d12697bf)
 
 # 💫 About Me:
-I build backend systems and spend a lot of time understanding what happens underneath them.<br><br>🔭 Currently working on: Expanding my skills deeply in development, learning to build robust backends.<br><br>🌱 Currently learning: Networking fundamentals (CCNA) — Cisco Packet Tracer, NetworkChuck & Professor Messer's series.<br><br>🤔 Exploring: DDoS source tracing / IP traceback as a side research interest.<br><br>⚙️ Dev flow: Exploring Neovim, Arch/KDE, tmux, dotfiles & CLI tooling.<br><br>📫 How to reach me: You can find me on LinkedIn or ping me on Twitter. Can connect on Insta as well. 😉<br><br>⚡ Fun fact: I'm convinced that the best code is written while listening to Diljeet's beats and sipping on Moon-Child Era tea.
+I build backend systems and spend a lot of time understanding what happens underneath them.<br><br>🔭 Currently working on: Expanding my skills deeply in development, learning to build robust backends.<br><br>🌱 Currently learning: Networking fundamentals (CCNA) — Cisco Packet Tracer, NetworkChuck & Professor Messer's series.<br><br>⚙️ Dev flow: Exploring Neovim, Arch/KDE, tmux, dotfiles & CLI tooling.<br><br>📫 How to reach me: You can find me on LinkedIn or ping me on Twitter. Can connect on Insta as well. 😉<br><br>⚡ Fun fact: I'm convinced that the best code is written while listening to Diljeet's beats and sipping on Moon-Child Era tea.
 
 
 ## 🌐 Socials:
